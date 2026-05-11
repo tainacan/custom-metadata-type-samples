@@ -1,5 +1,6 @@
 # Custom Metadata Type Samples
 [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+
 This repo contains a list of simples sample custom metadata type plugins for Tainacan. It is intended to be used with the oficial documentation for registering custom metadata type:
 
 https://tainacan.github.io/tainacan-wiki/#/dev/creating-metadata-type
